@@ -9,14 +9,6 @@ Página web moderna em **Django**, rápida e focada em conversão, criada para s
 * **Portal do Aluno (UI):** Templates Django modulares preparados para autenticação, dados reais e visualização interativa de divisão de treino e séries.
 * **Calculadora IMC & TMB:** Cálculo instantâneo no *client-side* para retenção de visitantes.
 
-## 💳 Matriz de Planos
-
-| Plano | Valor Mensal | Fidelidade | Entregáveis |
-| :--- | :--- | :--- | :--- |
-| **Smart** | R$ 119,90 | Sem fidelidade | Musculação livre em qualquer horário |
-| **Iron** | R$ 99,90 | 12 meses | Musculação + coletivas + avaliação trimestral |
-| **VIP Black** | R$ 139,90 | 12 meses | Tudo do Iron + 5 convidados/mês + camiseta |
-
 ## 🛠️ Stack
 
 * **Back-end:** Python, Django
