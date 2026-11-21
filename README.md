@@ -25,4 +25,4 @@ Página web moderna em **Django**, rápida e focada em conversão, criada para s
 ## 👥 Equipe
 
 * **Back-end:** Felipe Dutra, Bruna Correa, Pedro Mariotto, Sara Beatriz, Paulo Cesar
-* **Front-end:** Caliu Souza
+* **Front-end:** Calil Souza
